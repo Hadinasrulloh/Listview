@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Free Encyclopedia</string>
+
+    // Layout
+    <string name="pilih_gambar">(Press image to open gallery)</string>
+    <string name="pembuat_gambar">(Press Image to see creator bio)</string>
+    <string name="daftar_ras_judul">Animal Race List</string>
+    <string name="go_back">Return</string>
+    <string name="unggas">Poultry</string>
+    <string name="naga">Dragon</string>
+    <string name="game">Games</string>
+    <string name="unggas_list_title">Poultry Race List</string>
+    <string name="naga_list_title">Dragon Race List</string>
+    <string name="games_list_title">List of Race Games</string>
+    <string name="judul">birds, dragons and games</string>
+
+    <string name="klik2">click profile to see the creators bio</string>
+    <string name="biodata">Author Bio</string>
+    <string name="nama">name</string>
+    <string name="kelas">class</string>
+    <string name="prodi">study program</string>
+    <string name="hobby">watch indian tutorial</string>
+
+    // Data Unggas
+    <string name="angsa_nama">Swan</string>
+    <string name="angsa_asal">Cygnus</string>
+    <string name="angsa_deskripsi">The swan is the largest animal in the Anatidae family. As well as one of the largest birds that can swim and can also fly</string>
+    <string name="ayam_nama">Chicken</string>
+    <string name="ayam_asal">Chicken</string>
+    <string name="ayam_deskripsi">Chickens are poultry that are usually kept by people to be used for the needs of the keepers life</string>
+    <string name="kalkun_nama">Turkey</string>
+    <string name="kalkun_asal">Meleagris</string>
+    <string name="kalkun_deskripsi">Turkey is a term for two species of birds that have a large body size. This animal belongs to the Galliformes family</string>
+    <string name="puyuh_nama">quail</string>
+    <string name="puyuh_asal">Corturnix</string>
+    <string name="puyuh_deskripsi">Quails have a medium body size and even tend to be small. Quail is a small land fowl but has a fat belly.</string>
+    <string name="bebek_nama">Duck</string>
+    <string name="bebek_asal">Anas</string>
+    <string name="bebek_deskripsi">Ducks are aquatic birds that have a body size smaller than geese. Ducks can live on land or in water, but ducks will be mostly found in fresh water</string>
+    <string name="pinguin_nama">Penguin</string>
+    <string name="pinguin_asal">Aptenodytes</string>
+    <string name="pinguin_deskripsi">Penguins are aquatic animals that cannot fly and generally live in the Southern Hemisphere</string>
+    // Data Naga
+    <string name="huang_nama">Huang Long</string>
+    <string name="huang_asal">China</string>
+    <string name="huang_deskripsi">Huang Long when awake, sleeping and breathing determines day and night, as well as seasons and weather</string>
+    <string name="hydra_nama">Hydra</string>
+    <string name="hydra_asal">Yunani</string>
+    <string name="hydra_deskripsi">Hydra is depicted as a dragon that has nine heads. It is said that if one of his heads is cut off, a new head will grow</string>
+    <string name="dragon_nama">Dragon</string>
+    <string name="dragon_asal">Eropa</string>
+    <string name="dragon_deskripsi">It is believed that this dragon is shaped like a giant lizard that has wings and is able to spit fire from its mouth</string>
+    <string name="quetzalcoatl_nama">Quetzalcoatl</string>
+    <string name="quetzalcoatl_asal">Aztek</string>
+    <string name="quetzalcoatl_deskripsi">Quetzalcoatl (how to read this -_-) is believed to be the Aztec God of Creation and the sky.</string>
+    <string name="tiamat_nama">Tiamat</string>
+    <string name="tiamat_asal">Babilonia</string>
+    <string name="tiamat_deskripsi"> This Tiamat is believed to give birth to the first generation of gods</string>
+    <string name="qilin_nama">Qilin</string>
+    <string name="qilin_asal">China</string>
+    <string name="qilin_deskripsi">This creature is believed to be a sacred animal and a protector from disaster. It only punishes the bad guys and wont step on a single living being</string>
+    // Data Games
+    <string name="gensin_nama">Gensin Impact</string>
+    <string name="gensin_asal">miHoYo</string>
+    <string name="gensi_deskripsi">genshin Impact is a free-to-play open world action RPG developed by miHoYo. This game is released on September 28, 2020</string>
+    <string name="blue_nama">Blue Archive</string>
+    <string name="blue_asal">NEXON</string>
+    <string name="blue_deskripsi">Blue Archive is an RPG game for mobile developed by NetGames, a subsidiary of Nexon. The Japanese server itself has been released since the beginning of this year. Blue Archive carries a school theme</string>
+    <string name="mobile_nama">Mobile Lagend</string>
+    <string name="mobile_asal">MOONTON</string>
+    <string name="mobile_deskripsi">Mobile Legends is a 5VS5 MOBA game released in 2016</string>
+    <string name="pubg_nama">PUBGM</string>
+    <string name="pubg_asal">Tencent Game</string>
+    <string name="pubg_deskripsi">PUBG: Battlegrounds (or PUBG, previously known as PlayerUnknowns Battlegrounds) is an online multiplayer battle royale game developed and published by PUBG Corporation, a subsidiary of Krafton. </string>
+    <string name="honkai_nama">Honkai: Star Trail</string>
+    <string name="honkai_asal">miHoYo</string>
+    <string name="honkai_deskripsi">Honkai: Star Trail is a game that will be released by Mihoyo in early 2022, and has just opened a beta test for this game</string>
+    <string name="subway_nama">Subway Surfers</string>
+    <string name="subway_asal">Kiloo Games dan Sybo Games</string>
+    <string name="subway_deskripsi">Subway Surfers is an escape game developed by Kiloo Games and Sybo Games which was released in 2012</string>
+</resources>

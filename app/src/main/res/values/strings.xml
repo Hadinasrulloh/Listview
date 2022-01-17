@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Ensiklopedia Bebas</string>
+
+    // Layout
+    <string name="pilih_gambar">(Tekan gambar untuk membuka galeri)</string>
+    <string name="pembuat_gambar">(Tekan Gambar untuk melihat biodata pembuat)</string>
+    <string name="daftar_ras_judul">Daftar Ras Hewan</string>
+    <string name="go_back">Kembali</string>
+    <string name="unggas">Unggas</string>
+    <string name="naga">Naga</string>
+    <string name="game">Game</string>
+    <string name="unggas_list_title">Daftar Ras Unggas</string>
+    <string name="naga_list_title">Daftar Ras Naga</string>
+    <string name="games_list_title">Daftar Ras Games</string>
+    <string name="judul">unggas,naga dan games</string>
+
+    <string name="klik2">klik profile untuk melihat biodata pembuat</string>
+    <string name="biodata">Biodata Pembuat</string>
+    <string name="nama">nama</string>
+    <string name="kelas">kelas</string>
+    <string name="prodi">prodi</string>
+    <string name="hobby">nonton  indian tutorial</string>
+
+    // Data Unggas
+    <string name="angsa_nama">Angsa</string>
+    <string name="angsa_asal">Cygnus</string>
+    <string name="angsa_deskripsi">Angsa adalah hewan terbesar dari golongan keluarga anatidae. Sekaligus salah satu burung terbesar yang bisa berenang dan juga bisa terbang</string>
+    <string name="ayam_nama">Ayam</string>
+    <string name="ayam_asal">Ayam</string>
+    <string name="ayam_deskripsi">Ayam adalah adalah unggas yang biasa dipelihara orang untuk dimanfaatkan untuk keperluan hidup pemeliharanya</string>
+    <string name="kalkun_nama">Kalkun</string>
+    <string name="kalkun_asal">Meleagris</string>
+    <string name="kalkun_deskripsi">Ayam kalkun adalah sebutan untuk dua spesies burung yang memiliki ukuran tubuh besar. Hewan ini termasuk dalam keluarga galliformes</string>
+    <string name="puyuh_nama">Puyuh</string>
+    <string name="puyuh_asal">Corturnix</string>
+    <string name="puyuh_deskripsi">Burung puyuh memiliki ukuran tubuh menengan bahkan cenderung bertubuh kecil. Burung puyuh adalah hewan unggas daratan yang kecil namun memiliki perut yang gemuk.</string>
+    <string name="bebek_nama">Bebek</string>
+    <string name="bebek_asal">Anas</string>
+    <string name="bebek_deskripsi">Bebek adalah burung akuatik yang memilliki ukuran badan lebih kecil dari angsa. Bebek bisa hidup di darat maupun di air, akan tetapi bebek akan lebih banyak di temukan di perairan air tawar</string>
+    <string name="pinguin_nama">Pinguin</string>
+    <string name="pinguin_asal">Aptenodytes</string>
+    <string name="pinguin_deskripsi">Penguin adalah hewan akuatik jenis burung yang tidak bisa terbang dan secara umum hidup di belahan Bumi selatan</string>
+    // Data Naga
+    <string name="huang_nama">Huang Long</string>
+    <string name="huang_asal">China</string>
+    <string name="huang_deskripsi">Huang Long ketika terjaga, tidur dan bernapas menentukan siang dan malam, serta musim dan cuaca</string>
+    <string name="hydra_nama">Hydra</string>
+    <string name="hydra_asal">Yunani</string>
+    <string name="hydra_deskripsi">Hydra digambarkan sebagai naga yang memiliki sembilan kepala. Konon jika salah satu kepalanya dipenggal, maka akan tumbuh kepala yang baru</string>
+    <string name="dragon_nama">Dragon</string>
+    <string name="dragon_asal">Eropa</string>
+    <string name="dragon_deskripsi">Diyakini naga ini berbetuk seperti kadal raksasa yang memiliki sayap dan mampu menyemburkan api dari mulutnya</string>
+    <string name="quetzalcoatl_nama">Quetzalcoatl</string>
+    <string name="quetzalcoatl_asal">Aztek</string>
+    <string name="quetzalcoatl_deskripsi">Quetzalcoatl (bacanya gimana sih ini -_-) diyakini sebagai Dewa Pencipta dan langit Aztek.</string>
+    <string name="tiamat_nama">Tiamat</string>
+    <string name="tiamat_asal">Babilonia</string>
+    <string name="tiamat_deskripsi"> Tiamat ini diyakini melahirkan para dewa generasi pertama</string>
+    <string name="qilin_nama">Qilin</string>
+    <string name="qilin_asal">China</string>
+    <string name="qilin_deskripsi">Makhluk ini dipercaya sebagai hewan suci dan pelindung dari bencana. Ia hanya menghukum orang-orang jahat dan tidak akan menginjak satu pun makhluk hidup</string>
+    // Data Games
+    <string name="gensin_nama">Gensin Impact</string>
+    <string name="gensin_asal">miHoYo</string>
+    <string name="gensi_deskripsi">genshin Impact adalah permainan free-to-play action RPG dunia terbuka yang dikembangkan oleh miHoYo. Game ini dirilis pada tanggal 28 September 2020</string>
+    <string name="blue_nama">Blue Archive</string>
+    <string name="blue_asal">NEXON</string>
+    <string name="blue_deskripsi">Blue Archive adalah game RPG untuk mobile yang dikembangkan oleh NetGames, anak perusahaan dari Nexon. Server Jepangnya sendiri sudah rilis sejak awal tahun ini. Blue Archive mengusung tema sekolah</string>
+    <string name="mobile_nama">Mobile Lagend</string>
+    <string name="mobile_asal">MOONTON</string>
+    <string name="mobile_deskripsi">Mobile Legends merupakan game MOBA 5VS5 yang rilis pada 2016</string>
+    <string name="pubg_nama">PUBGM</string>
+    <string name="pubg_asal">Tencent Game</string>
+    <string name="pubg_deskripsi">PUBG: Battlegrounds (atau PUBG, sebelumnya dikenal sebagai PlayerUnknowns Battlegrounds) adalah game battle royale multipemain online yang dikembangkan dan diterbitkan oleh PUBG Corporation, anak perusahaan Krafton.</string>
+    <string name="honkai_nama">Honkai: Star Trail</string>
+    <string name="honkai_asal">miHoYo</string>
+    <string name="honkai_deskripsi">Honkai: Star Trail merupakan game yang akan dirilis mihoyo diawal tahun 2022, dan baru membuka beta test untuk game ini</string>
+    <string name="subway_nama">Subway Surfers</string>
+    <string name="subway_asal">Kiloo Games dan Sybo Games</string>
+    <string name="subway_deskripsi">Subway Surfers adalah permainan melarikan diri yang diusung oleh Kiloo Games dan Sybo Games yang dirilis pada tahun 2012</string>
+</resources>
